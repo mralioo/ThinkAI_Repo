@@ -8,10 +8,7 @@ The people who took our survey are in these age groups
 
 ![Alter](src/1.png)
 ![Alter](src/2.png)
-Like who can understand this?! 
-this is part of the [form of house regestration. ](https://www.bus.formularservice.niedersachsen.de/cpa/cfs/eject/pdf/8.pdf?FORMUID=NI-BMG-004-DE-FL&MANDANTUID=BUS&INFODIENSTE_FORM_ID=325208789&)
-
-
+Like who can understand this?!
 ![Alter](src/tf.png)
 
 
