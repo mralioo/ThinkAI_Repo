@@ -1,0 +1,95 @@
+[
+    {
+        "title": "Antragstellerin / Antragsteller",
+        "content": [
+            [
+                {
+                    "id": "field_1",
+                    "label": "Familienname, ggf. Geburtsname",
+                    "type": "iText",
+                    "width": 45
+                },
+                {
+                    "id": "field_2",
+                    "label": "Vorname(n)",
+                    "type": "iText",
+                    "width": 30
+                },
+                {
+                    "id": "field_3",
+                    "label": "Geburtsdatum",
+                    "type": "iDate",
+                    "width": 25
+                }
+            ],
+            [
+                {
+                    "id": "field_4",
+                    "label": "E-Mail-Adresse",
+                    "type": "iEmail",
+                    "width": 70
+                },
+                {
+                    "id": "field_5",
+                    "label": "Telefon",
+                    "type": "iPhone",
+                    "width": 30
+                }
+            ],
+            [
+                {
+                    "id": "field_6",
+                    "label": "Stra\u00dfe, Hausnummer, Stockwerk, ggf. Wohnungsnummer, Postleitzahl, Ort",
+                    "type": "iText",
+                    "width": 70
+                },
+                {
+                    "id": "field_7",
+                    "label": "Staatsangeh\u00f6rigkeit",
+                    "type": "iText",
+                    "width": 30
+                }
+            ],
+            [
+                {
+                    "id": "field_8",
+                    "label": "Bei Nicht-EU-Staatsangeh\u00f6rigkeit (auch von Haushaltsmitgliedern) sind Unterlagen \u00fcber den Aufenthaltsstatus beizuf\u00fcgen.",
+                    "type": "text",
+                    "width": 100
+                }
+            ]
+        ]
+    },
+    {
+        "title": "Nur bei Antrag auf Erteilung eines Wohnberechtigungsscheins",
+        "content": [
+            [
+                {
+                    "id": "field_9",
+                    "label": "Ich bewohne zur Zeit eine gef\u00f6rderte Wohnung",
+                    "type": "iCheckbox",
+                    "width": 100
+                }
+            ]
+        ]
+    },
+    {
+        "title": "Verm\u00f6gen",
+        "content": [
+            [
+                {
+                    "id": "field_10",
+                    "label": "Verf\u00fcgen Sie und / oder zu Ihrem Haushalt geh\u00f6rende Personen \u00fcber Verm\u00f6gen im Wert von mehr als 60.000 EUR?",
+                    "type": "iCheckbox",
+                    "width": 100
+                },
+                {
+                    "id": "field_11",
+                    "label": "Bei 'ja' machen Sie bitte nachfolgend genauere Angaben",
+                    "type": "iTextfield",
+                    "width": 100
+                }
+            ]
+        ]
+    }
+]
